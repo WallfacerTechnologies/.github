@@ -19,4 +19,4 @@ We're building developer tools for the AI era — tools that let developers thin
 
 ## Contact
 
-[hello@wallfacer.tech](mailto:team@wallfacer.ai)
+[team@wallfacer.ai](mailto:team@wallfacer.ai)
