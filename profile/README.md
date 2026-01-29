@@ -6,9 +6,9 @@ We're building developer tools for the AI era — tools that let developers thin
 
 ## Our Philosophy
 
-- **Amplify, Don't Replace** — Great developers understand what to build and why. AI is exceptional at turning decisions into code. We build tools that make this partnership seamless.
-- **Remove Constraints** — The best ideas don't happen at a desk. We're eliminating the artificial barriers that tie creative work to specific machines and locations.
-- **Work Fits Life** — Software development should adapt to how you live, not the other way around.
+- **Amplify, Not Replace** — Great developers decide what matters and why. AI excels at execution and scale. We build tools that strengthen this partnership so human judgment stays in control.
+- **Remove Constraints** — Insight is not location-bound. We remove artificial limits that tie creative work to specific machines, environments, or places.
+- **Work Fits Life** — Work should adapt to how people live. We are building for a future where serious software is created wherever life happens.
 
 ## Links
 
